@@ -9,7 +9,8 @@ Web : https://jsonplaceholder.typicode.com/
 
 <h2>Get ข้อมูลชื่อผิด </h2>
 
-<img width="1091" height="990" alt="image" src="https://github.com/user-attachments/assets/fc288ccc-17ab-47fb-b309-b999b444e841" />
+<img width="993" height="964" alt="image" src="https://github.com/user-attachments/assets/e74efef7-9b91-4458-9521-369bedcbedba" />
+
 <br>
 
 <h2>Post ข้อมูล ใหม่</h2>
